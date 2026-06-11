@@ -1,4 +1,4 @@
-# s5432370_A2_SoundPuzzle
+# s5432370_A3_SoundPuzzle
 
 This project is a memory based sound puzzle where the player must listen to a system generated sequence of sounds and repeat it back using buttons in the correct order. The sequence increases in length across rooms.
 
